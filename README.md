@@ -1,4 +1,4 @@
-English version repo and Gitbook is on [english branch](https://github.com/labuladong/fucking-algorithm/tree/english). Just enjoy：)
+**English** version repo and Gitbook is on [english branch](https://github.com/labuladong/fucking-algorithm/tree/english). Just enjoy：)
 
 ![starHistory](./starHistory.jpg)
 
